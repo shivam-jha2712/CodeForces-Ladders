@@ -1,5 +1,5 @@
-| Index | Problem | Difficulty | Solved |
-| --- | --- | --- | --- |
+| Index | Problem | Difficulty | Solved | Trick to solve |
+| --- | --- | --- | --- | --- |
 | 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 600 | ✅ |
 | 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 | ✅ |
 | 3 | [1D Eraser](https://codeforces.com/problemset/problem/1088/A) | 800 | ✅ |
