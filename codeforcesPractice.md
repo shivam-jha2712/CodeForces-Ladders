@@ -9,7 +9,7 @@
 | 7 | [Two Vessels](https://codeforces.com/problemset/problem/1872/A) | 800 | ✅ |  |
 | 8 | [Ambitious Kid](https://codeforces.com/problemset/problem/1866/A) | 800 | ✅ |  |
 | 9 | [Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | ✅ | "parity of a set only changes when odd is encountered" |
-| 10 | []() | 800 |  |  |
+| 10 | [Parity Sort](https://codeforces.com/problemset/problem/1851/B) | 800 | ✅ | https://codeforces.com/blog/entry/118667 |
 | 11 | []() | 800 |  |  |
 | 12 | []() | 800 |  |  |
 | 13 | []() | 800 |  |  |
